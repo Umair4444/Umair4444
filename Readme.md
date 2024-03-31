@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" height="300"  src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umair4444&label=Profile%20views&color=0e75b6&style=flat" alt="umair4444" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umair4444" alt="umair4444" /></a> </p>
 
 - 🔭 I’m currently working on **Typescript**
 
@@ -18,6 +16,8 @@
 
 - ⚡ Fun fact **I also like E-Gaming and Music**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umair4444&label=Profile%20views&color=0e75b6&style=flat" alt="umair4444" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umair4444" alt="umair4444" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
