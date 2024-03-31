@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umair Ali Khan</h1>
 <h3 align="center">A passionate Gen A.I developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com.pk/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15637256-coding%2Fattachments%2F7428659%3Fmode%3Dmedia&psig=AOvVaw3xdkVA5D6NYq6XZ0S2Nnva&ust=1711976910785000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi1nozJnoUDFQAAAAAdAAAAABAR"
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umair4444&label=Profile%20views&color=0e75b6&style=flat" alt="umair4444" /> </p>
 
