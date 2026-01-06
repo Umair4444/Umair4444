@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AI Agents and Spec Driven Development**
 
-- 🌱 I’m currently learning **AI Agents(Openai-agents SDK) and Spec Driven Developmet **
+- 🌱 I’m currently learning **AI Agents(Openai-agents SDK) and Spec Driven Developmet**
 
 - 🤝 I’m looking for help with **implementing new ideas to business to solve real life problems**
 
