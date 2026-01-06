@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI Agents(Openai-agents SDK) and Spec Driven Developmet**
 
-- 🤝 I’m looking for help with **implementing new ideas to business to solve real life problems**
+- 🤝 I’m looking for help with **implementing new ideas to business**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Umair4444](https://github.com/Umair4444)
 
