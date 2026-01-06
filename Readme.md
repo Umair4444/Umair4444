@@ -4,11 +4,11 @@
 <img align="right" alt="coding" height="300"  src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" >
 
 
-- 🔭 I’m currently working on **Typescript**
+- 🔭 I’m currently working on **AI Agents and Spec Driven Development**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **AI Agents(Openai-agents SDK) and Spec Driven Developmet **
 
-- 🤝 I’m looking for help with **coding**
+- 🤝 I’m looking for help with **implementing new ideas to business to solve real life problems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Umair4444](https://github.com/Umair4444)
 
