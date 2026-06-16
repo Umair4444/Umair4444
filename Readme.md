@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umair Ali Khan</h1>
-<h3 align="center">A Passionate GenAI & Full-Stack Developer from Pakistan</h3>
+<h3 align="center">A Passionate Agentic-AI & Full-Stack Developer from Pakistan</h3>
 
 <table>
   <tr>
